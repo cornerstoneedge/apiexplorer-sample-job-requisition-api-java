@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project provides sample code for authenticating and consuming Cornerstone OnDemand's (CSOD) [Job Requisition API](https://lax-prd-ex.csod.com/apiconnectorweb/apiexplorer#/apidoc/7f1beda8-ec8a-41ad-a615-417d27d8e568).
+This project provides sample code for authenticating and consuming Cornerstone OnDemand's (CSOD) [Job Requisition API](https://apiexplorer.csod.com/apiconnectorweb/apiexplorer#/apidoc/7f1beda8-ec8a-41ad-a615-417d27d8e568).
 
 It utilizes CSOD's OAuth 2.0 authentication to obtain an access token via provided ClientId and ClientSecret.
 
